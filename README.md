@@ -2,10 +2,10 @@
 App for connecting the recipients to donors for blood donation
 
 # Pre-requisites
-Install Node
-Install bower
-Install nodemon
-Install gulp
+Install Node 
+Install bower 
+Install nodemon 
+Install gulp 
 
 # App Installation
 npm install
